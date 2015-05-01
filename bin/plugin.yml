@@ -1,0 +1,13 @@
+name: RandMan
+version: 2.5-SNAPSHOT
+description: This plugin teleports players to a random spot within the world border.
+author: Vik1395
+
+main: me.vik1395.randman.RandMan
+
+commands:
+  RandMan:
+    description: Teleports player to a random position within the world border.
+    aliases: [rand, random]
+    permission: randman.use
+    usage: /randman, /rand, /random

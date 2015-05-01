@@ -1,0 +1,8 @@
+World Guard Hook: True
+# Hooking into world guard means that the plugin doesnt teleport the player into a world guard region. Disable this if most of the map is occupied by regions as it will time out alot. Type true to hook into WorldGuard.
+Teleport Timer: 3
+# The time limit before the player is teleported.
+Nether Support: True
+# This field lets you allow or deny players to use the /rand command in the nether. Type True to allow Nether Support.
+One World Teleport: False
+# Set this to True if you want players to be tp'd randomly within only one world (where randman has been set up) 
