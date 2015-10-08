@@ -34,9 +34,8 @@ Nether Support: True
 
 ###Old Version
 
-The last update by LRFLEW was 1.o.2
-
-The Plugin can be found [here](http://legitplay.net/plugins/Downloads/Bukkit/RandMan/1.0.2/RandMan.jar) [![Github Link](http://legitplay.net/plugins/Downloads/Images/github.jpg)](https://github.com/LRFLEW/RandMan) 
+The Plugin can be found [here](http://ci.vik1395.me/job/RandMan/) 
+The Repo can be found here: [here](https://github.com/LRFLEW/RandMan) 
 
 This plugin is licensed under CC Attribution-ShareAlike 4.0 Internationa
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US)
@@ -46,8 +45,3 @@ In very basic terms, Do whatever you want with the code of this plugin, as long 
 Plugin made by a member of
 
 [![LegitPlay.net](http://legitplay.net/images/logo.gif)](http://legitplay.net/)
-
-
-[![Github Link](http://legitplay.net/plugins/Downloads/Images/github.jpg)](https://github.com/vik1395/RandMan) - Repository Link
-
-Written on [Dillinger](http://dillinger.io/)
