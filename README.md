@@ -38,11 +38,5 @@ The Plugin can be found [here](http://ci.vik1395.me/job/RandMan/)
 
 The Repo can be found here: [here](https://github.com/LRFLEW/RandMan) 
 
-This plugin is licensed under CC Attribution-ShareAlike 4.0 Internationa
-[![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US)
-
-In very basic terms, Do whatever you want with the code of this plugin, as long as you give credits to the author and/or the plugin itself.
-
-Plugin made by a member of
-
-[![LegitPlay.net](http://legitplay.net/images/logo.gif)](http://legitplay.net/)
+This plugin is licensed under CC Attribution-NonCommercial-ShareAlike 4.0 International
+[![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)
